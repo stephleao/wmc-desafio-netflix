@@ -32,7 +32,7 @@ Segundo desafio em squad do Bootcamp Data Analytics 2026.1, oferecido pela [WoMa
 
   # OU
 
-  pip install pandas jupyter ipykernel
+  pip install pandas jupyter ipykernel missingno
   ```
 
 3. Execute o Notebook:
